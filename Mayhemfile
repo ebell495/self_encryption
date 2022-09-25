@@ -1,0 +1,5 @@
+project: self_encryption
+target: basic_encryptor
+
+cmds:
+    - cmd: ./self_encryption/target/debug/examples/basic_encryptor -e @@
