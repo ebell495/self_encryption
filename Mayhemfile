@@ -3,3 +3,4 @@ target: basic_encryptor
 
 cmds:
     - cmd: ./self_encryption/target/debug/examples/basic_encryptor -e @@
+      timeout: 20
